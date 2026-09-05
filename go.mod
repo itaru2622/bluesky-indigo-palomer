@@ -5,7 +5,7 @@ go 1.26
 toolchain go1.26.1
 
 require (
-	github.com/bluesky-social/indigo v0.0.0-20260826171833-0ae16078d6a6
+	github.com/bluesky-social/indigo v0.0.0-20260903211445-41278964ec8e
 )
 
 // minimum modification for salvaging.
